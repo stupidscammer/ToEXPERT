@@ -1,0 +1,15 @@
+{
+  "name": "counter-vanilla",
+  "version": "1.0.0",
+  "description": "A simple counter implemented using Redux",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.7",
+    "@babel/preset-typescript": "^7.18.6",
+    "parcel-bundler": "^1.6.1"
+  }
+}
